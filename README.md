@@ -28,6 +28,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 ## naver dictionary - example
 http://endic.naver.com/search_example.nhn?sLn=kr&query=&preQuery=&searchOption=example&examType=&forceRedirect=N
+### what is node.js
+https://blog.perfectacle.com/2017/06/18/what-is-node-js/
 ## jekyll tutorial
 https://www.youtube.com/watch?v=WhrU9m82Wm8&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=2
 ## free comment service - disqus
