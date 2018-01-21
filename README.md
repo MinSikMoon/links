@@ -28,15 +28,18 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 ## naver dictionary - example
 http://endic.naver.com/search_example.nhn?sLn=kr&query=&preQuery=&searchOption=example&examType=&forceRedirect=N
+### node.js korean tutorial blog
+https://velopert.com/page/4?s=node.js
+https://opentutorials.org/course/2136/11850
 ### what is node.js
 https://blog.perfectacle.com/2017/06/18/what-is-node-js/
-## jekyll tutorial
+### jekyll tutorial
 https://www.youtube.com/watch?v=WhrU9m82Wm8&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=2
-## free comment service - disqus
+### free comment service - disqus
 https://disqus.com/features/engage/
-## How does binary translate to hardware
+### How does binary translate to hardware
 https://stackoverflow.com/questions/1518177/how-does-binary-translate-to-hardware
-## what is runtime
+### what is runtime
 http://asfirstalways.tistory.com/99
-## node.js tutorial
-https://opentutorials.org/course/2136/11850
+
+
