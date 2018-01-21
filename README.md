@@ -29,7 +29,7 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 ## naver dictionary - example
 http://endic.naver.com/search_example.nhn?sLn=kr&query=&preQuery=&searchOption=example&examType=&forceRedirect=N
 ### node.js korean tutorial blog
-https://velopert.com/page/4?s=node.js
+https://velopert.com/node-js-tutorials
 https://opentutorials.org/course/2136/11850
 ### what is node.js
 https://blog.perfectacle.com/2017/06/18/what-is-node-js/
