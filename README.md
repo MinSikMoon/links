@@ -28,6 +28,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 ## naver dictionary - example
 http://endic.naver.com/search_example.nhn?sLn=kr&query=&preQuery=&searchOption=example&examType=&forceRedirect=N
+### what is aws lambda and lambda function
+https://aws.amazon.com/ko/lambda/features/
 ### sharding
 http://gywn.net/2012/05/how_to_shard_big_data_in_tumblr/ \ http://clearpal7.blogspot.kr/2016/06/mysql-mysql_7.html \  http://eminentstar.tistory.com/54 \ http://genesis8.tistory.com/211 \ http://d2.naver.com/helloworld/14822
 ### node.js korean tutorial blog
