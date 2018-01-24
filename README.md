@@ -28,6 +28,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 ## naver dictionary - exampl
 http://endic.naver.com/search_example.nhn?sLn=kr&query=&preQuery=&searchOption=example&examType=&forceRedirect=N
+### Is it possible to alter http request's header using javascript?
+https://stackoverflow.com/questions/11214718/is-it-possible-to-alter-http-requests-header-using-javascript
 ### cross-origin resource sharing : cors request for no-access-control-allow
 https://www.html5rocks.com/en/tutorials/cors/
 https://stackoverflow.com/questions/20035101/why-does-my-javascript-get-a-no-access-control-allow-origin-header-is-present
