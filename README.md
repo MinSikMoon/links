@@ -26,10 +26,9 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </html>
 ````
 
-## naver dictionary - example
-<HTML>
-<a>http://endic.naver.com/search_example.nhn?sLn=kr&query=&preQuery=&searchOption=example&examType=&forceRedirect=N</a>
-</HTML>
+## naver dictionary - exampl
+http://endic.naver.com/search_example.nhn?sLn=kr&query=&preQuery=&searchOption=example&examType=&forceRedirect=N
+
 ### what is aws lambda and lambda function
 https://aws.amazon.com/ko/lambda/features/
 ### sharding
