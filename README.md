@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### 동기 비동기 blocking non blocking
+http://ozt88.tistory.com/20
 [how to install ubuntu linux on my pc](http://jimnong.tistory.com/676)
 ### word length checking
 [글자수체크기](http://m.incruit.com/tools/text/)
