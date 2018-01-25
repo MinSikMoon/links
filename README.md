@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### word length checking
+[글자수체크기](http://m.incruit.com/tools/text/)
 ### free-database-software/
 https://blog.capterra.com/free-database-software/
 ### Is it possible to alter http request's header using javascript?
