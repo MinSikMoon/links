@@ -1,6 +1,3 @@
-<script type="text/javascript">
-  alert("hi");
-</scirpt>
 # links
 repository of useful links.
 ## naver dictionary - exampl
