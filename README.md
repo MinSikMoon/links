@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### git branch
+http://mobicon.tistory.com/163
 ### ci jenkins 
 http://www.nextree.co.kr/p3452/
 ###  시스템콜
