@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### ci jenkins 
+http://www.nextree.co.kr/p3452/
 ###  시스템콜
 http://luckyyowu.tistory.com/133
 ### cross-domain jsonp same origin 동일표준정책
