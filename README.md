@@ -27,6 +27,9 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+###  시스템콜
+http://luckyyowu.tistory.com/133
+
 ### 동기 비동기 blocking non blocking
 http://ozt88.tistory.com/20
 [how to install ubuntu linux on my pc](http://jimnong.tistory.com/676)
