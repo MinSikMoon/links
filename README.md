@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### 전산기출
+http://www.topcit.or.kr/board/boardList.do
 ### git branch
 http://mobicon.tistory.com/163
 ### ci jenkins 
