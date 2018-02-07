@@ -27,6 +27,9 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### 허드슨
+https://www.javaworld.com/article/2077956/open-source-tools/continuous-integration-with-hudson.html
+https://github.com/doortts/tistory-blog-export-example/wiki/00069-20081228-%EB%B2%88%EC%97%AD-%ED%97%88%EB%93%9C%EC%8A%A8%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9D%B8-%ED%86%B5%ED%95%A9Continuous-integration-with-Hudson-1
 ### 오라클
 https://wikidocs.net/book/550
 ### 스키마
