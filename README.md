@@ -27,6 +27,10 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### 오라클
+https://wikidocs.net/book/550
+### 스키마
+http://dreamstorage.tistory.com/175
 ### 목도리
 http://smartblog.kt.com/5216
 ### 전산기출
