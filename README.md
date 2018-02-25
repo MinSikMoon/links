@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### 보험료구조
+http://www.assetdiary.com/front/phtml/board.php?code=knowhow&act=view&idx=9&p=1&key=&keyword=
 ### UML
 http://www.nextree.co.kr/p6753/
 ### 관계
