@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### JNDI 
+http://egloos.zum.com/utils/v/3853335
 ### 함수형 FUNCTIONAL 
 https://github.com/WWTKT/Javascript/wiki/Chapter07.-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D
 ### synonym 시노님
