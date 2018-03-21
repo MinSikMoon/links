@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### eclipse plugin offline install
+http://regexr.tistory.com/28
 ### JNDI 
 http://egloos.zum.com/utils/v/3853335
 ### 함수형 FUNCTIONAL 
