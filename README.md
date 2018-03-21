@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### financial tutorial
+https://financialfreedom.kr/about/
 ### eclipse plugin offline install
 http://regexr.tistory.com/28
 ### JNDI 
