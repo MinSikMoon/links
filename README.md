@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### websphere liberty eclipse installation
+http://850530.tistory.com/186
 ### domain 도메인윈도우
 https://m.blog.naver.com/PostView.nhn?blogId=kokoko1126&logNo=10016944029&proxyReferer=http%3A%2F%2Fwww.google.co.kr%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D5%26ved%3D0ahUKEwjNz6XWtInaAhWGKJQKHdpQCpYQFghJMAQ%26url%3Dhttp%253A%252F%252Fm.blog.naver.com%252Fkokoko1126%252F10016944029%26usg%3DAOvVaw3RECBM3i8Ie-DWMCBn_u22
 ### financial tutorial
