@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### 라이센스 opensource license
+http://wiki.kldp.org/wiki.php/OpenSourceLicenseGuide#s-3.2.4
 ### eclipse download page
 http://www.eclipse.org/downloads/packages/release/Oxygen/3
 ### websphere liberty eclipse installation
