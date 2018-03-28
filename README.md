@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### websphere web.xml
+http://www.websphere.pe.kr/xe/was_qna/5188
 ### websphere 설명
 http://soul0.tistory.com/127?category=543483
 ### 라이센스 opensource license
