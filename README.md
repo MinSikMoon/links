@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### 배치기초
+http://www.mysqlkorea.com/gnuboard4/bbs/board.php?bo_table=develop_03&wr_id=65
 ### dictionary
 https://www.lifeplanet.co.kr/products/common/HPPA01P2.dev
 ### websphere web.xml
