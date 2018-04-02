@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### dictionary
+https://www.lifeplanet.co.kr/products/common/HPPA01P2.dev
 ### websphere web.xml
 http://www.websphere.pe.kr/xe/was_qna/5188
 ### websphere 설명
