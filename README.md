@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### javascript write/read file utf8
+https://stackoverflow.com/questions/2840252/writing-utf8-text-to-file
 ### 배치기초
 http://www.mysqlkorea.com/gnuboard4/bbs/board.php?bo_table=develop_03&wr_id=65
 http://www.snoopybox.co.kr/1404
