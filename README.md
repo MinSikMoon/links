@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### cross domain 해결법
+https://m.blog.naver.com/PostView.nhn?blogId=youngram2&logNo=220129424078&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
 ### javascript write/read file utf8
 https://stackoverflow.com/questions/2840252/writing-utf8-text-to-file
 ### 배치기초
