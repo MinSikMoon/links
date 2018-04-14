@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### read configuration in java properties
+http://www.opencodez.com/java/read-config-file-in-java.htm
 ### how to get running processes in java 
 http://mainia.tistory.com/329
 ### swing
