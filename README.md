@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### how to get running processes in java 
+http://mainia.tistory.com/329
 ### swing
 http://levin01.tistory.com/530
 ### cross domain 해결법
