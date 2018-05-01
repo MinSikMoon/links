@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### liberty 한글
+http://www.websphere.pe.kr/xe/index.php?mid=liberty_technotes&page=2&document_srl=1843
 ### install liberty and eclipse
 https://developer.ibm.com/wasdev/downloads/liberty-profile-using-eclipse/
 ### websphere
