@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### how to install eclipse plugin
+https://stackoverflow.com/questions/5482554/how-to-install-plugin-for-eclipse-from-zip
 ### wdt download
 https://developer.ibm.com/wasdev/docs/websphere-developer-tools-releases/
 ### liberty 한글
