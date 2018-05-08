@@ -27,6 +27,73 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+# 자바 파일 읽기 쓰기
+````java
+package main;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class Main {
+	public static void main(String[] fileName) {
+		// TODO Auto-generated method stub
+		// 1. 현재 위치
+		String curDir = System.getProperty("user.dir");
+
+		// 2. fileName을 받는다.
+		String testFile = "test.f";
+
+		// 3. file
+		File inFile = new File(curDir, testFile);
+		File outFile = new File(curDir, testFile + "_out");
+
+		// 4. 읽어보기
+		BufferedReader br = null;
+		try {
+			br = new BufferedReader(new FileReader(inFile));
+			String line;
+			while ((line = br.readLine()) != null) {
+				System.out.println(line);
+			}
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			if (br != null)
+				try {
+					br.close();
+				} catch (IOException e) {
+				}
+		}
+
+		// ==========================//
+		// 텍스트 파일 쓰기
+		// ==========================//
+		BufferedWriter bw = null;
+		try {
+			bw = new BufferedWriter(new FileWriter(outFile));
+			bw.write("테스트 합니다.");
+			bw.newLine();
+			bw.write("테스트 합니다.1");
+			bw.flush();
+		} catch (IOException e) {
+			e.printStackTrace();
+		} finally {
+			if (bw != null)
+				try {
+					bw.close();
+				} catch (IOException e) {
+				}
+		}
+	}
+}
+````
 ### how to install eclipse plugin
 https://stackoverflow.com/questions/5482554/how-to-install-plugin-for-eclipse-from-zip
 ### wdt download
