@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+### refactoring 리팩토링 eclipse 이클립스
+https://www.ibm.com/developerworks/library/os-ecref/
 ### liberty runtime jar
 https://developer.ibm.com/wasdev/downloads/#asset/runtimes-wlp-runtime
 ### 파워쉘?
