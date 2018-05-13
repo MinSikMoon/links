@@ -1,4 +1,4 @@
-### 에디트플러스 
+### 에디트플러스 툴 만들기 자바
 
 ````java
 public class ReadShowMain {
@@ -45,3 +45,8 @@ public class ReadShowMain {
 
 }
 ````
+
+### 배치
+''''batch
+java -jar readshow.jar %1
+''''
