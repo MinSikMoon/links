@@ -47,6 +47,6 @@ public class ReadShowMain {
 ````
 
 ### 배치
-''''batch
+````batch
 java -jar readshow.jar %1
-''''
+````
