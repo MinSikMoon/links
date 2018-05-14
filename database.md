@@ -1,3 +1,5 @@
+### 포스트그레 postgre sql
+http://www.gurubee.net/postgresql/basic
 ### 오라클 아이디 비번
 ````
 윈도우라면 우선 제어판 서비스에서 oracle service를 확인하시구요,
