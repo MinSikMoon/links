@@ -1,7 +1,6 @@
 
 ### 오라클 강좌
 http://www.gurubee.net/oracle/sql
-
 https://wikidocs.net/book/550
 ### 포스트그레 postgre sql
 http://www.gurubee.net/postgresql/basic
