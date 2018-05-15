@@ -1,4 +1,6 @@
-### difrence between 단일함수 그룹함수
+### case
+https://wikidocs.net/3939
+### diffrence between 단일함수 그룹함수
 https://wikidocs.net/3941
 ### DISTINCT
 https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_no_distinct
