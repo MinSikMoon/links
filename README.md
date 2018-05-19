@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+#### SSH
+리눅스/ 유닉스 계열에서 원격제어엥 사용하는 
 ### 프로비저닝
 http://glqdlt.tistory.com/268
 http://sakanglove.tistory.com/entry/Provisioning-%ED%94%84%EB%A1%9C%EB%B9%84%EC%A0%80%EB%8B%9D
