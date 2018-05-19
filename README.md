@@ -27,7 +27,9 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
-### 
+### 프로비저닝
+http://glqdlt.tistory.com/268
+http://sakanglove.tistory.com/entry/Provisioning-%ED%94%84%EB%A1%9C%EB%B9%84%EC%A0%80%EB%8B%9D
 ### 자바 정규식
 https://m.blog.naver.com/PostView.nhn?blogId=bb_&logNo=220863282423&proxyReferer=http%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D8%26ved%3D0ahUKEwiLpfOI2vraAhVFurwKHbCuDwIQFghlMAc%26url%3Dhttp%253A%252F%252Fm.blog.naver.com%252Fbb_%252F220863282423%26usg%3DAOvVaw3Od89UowuJ9c9yMIHuQxgU
 ### 정규식
