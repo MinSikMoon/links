@@ -1,4 +1,5 @@
 #### LEFT JOIN, NVL
+nvl : http://applejara.tistory.com/303
 ````SQL
 select e.empno, e.ename, e.JOB, DECODE(mgr.ename,null,'관리자없음',mgr.ename)--NVL2(mgr.ename, mgr.ename, '노관리자') 관리자 --NVL은 숫자인수로만 들어감
 from emp e
