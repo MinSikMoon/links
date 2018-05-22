@@ -8,8 +8,32 @@ order by e.job;
 
 ````
 
-#### with
+#### with, union all
 http://powerofwriting.tistory.com/entry/Oracle-WITH-%EA%B5%AC%EB%AC%B8-%EC%98%88%EC%A0%9C
+```` sql
+with analyst as(
+    select * from emp e
+    where e.job = 'ANALYST'
+),
+clerk as (
+    select * from emp e
+    where e.job = 'CLERK'
+)
+
+select * from analyst, clerk; --전체 조인을 걸어줌 2*4
+
+with analyst as(
+    select * from emp e
+    where e.job = 'ANALYST'
+    
+    union all
+    
+    select * from emp e
+    where e.job = 'CLERK'
+)
+
+select * from analyst; -- 총 6건 2+4
+````
 #### case
 https://wikidocs.net/3939
 #### diffrence between 단일함수 그룹함수
