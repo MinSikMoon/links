@@ -1,3 +1,13 @@
+#### LEFT JOIN, NVL
+````SQL
+select e.empno, e.ename, e.JOB, DECODE(mgr.ename,null,'관리자없음',mgr.ename)--NVL2(mgr.ename, mgr.ename, '노관리자') 관리자 --NVL은 숫자인수로만 들어감
+from emp e
+join dept d on d.deptno = e.deptno 
+left join emp mgr on mgr.empno = e.mgr
+order by e.job;
+
+````
+
 #### with
 http://powerofwriting.tistory.com/entry/Oracle-WITH-%EA%B5%AC%EB%AC%B8-%EC%98%88%EC%A0%9C
 #### case
