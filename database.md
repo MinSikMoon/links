@@ -43,6 +43,34 @@ Free Buffer, Pinned Buffer, Dirty Buffer
 오라클은 모든 데이터를 메모리에 올려두고 한다.
 서버 버퍼는 Free Buffer를 할당받아야 한다. 하지만 DB Buffer Cache를 누가 다 차지하고 있다면, 다른 서버 프로세스가 Free Buffer를 할당받지  못한다. 왜냐면 다 Pinned Buffer
 ````
+#### 캐시 Cache 
+````
+라이브러리 캐시 : 쿼리문 재활용해 결국 io를 줄이고 데이터 버퍼 캐시를 적게 쓴다. 
+````
+#### 정렬작업
+PGA안의 Sort Area에서 한다.
+#### 인덱스 index 왜?
+테이블 적게 쓰고 io 적게 하자
+#### Fetch Size : 데이터 가져오는 사이즈
+````
+if 전체 데이터 100건, fetch size 10이면 dbms를 10번 호출
+but fetch size를 너무 크게해버리면 메모리영역 많이 먹어서 조정이 필요하다.
+````
+````
+DML은 SELECT와 FETCH만 없는 차이
+1. SELECT 해서 Buffered에 올리고
+2. DD에서 LOCK을 살피고
+3. LOCK 없으면 작업진행
+````
 
+#### 체크포인트?
+메모리 내용과 DISK 내용을 내린다. 
+#### 커밋?
+DATA를 영구히 반영한다.
+````
+Redo Log Buffer가 리두에 내리는 걸 commit한다. 즉 
+어떤 시점에도 select에 lock이 안걸리는데
+변경된 내용은 redo, 변경이전은 undo log buffer에 있고, undo를 셀렉트해서 보여줌.
+````
 
 
