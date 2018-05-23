@@ -1,3 +1,6 @@
+#### DELETE
+DELETE FROM table T WHERE T.a = ~~~ 
+
 #### LEFT JOIN, NVL
 nvl : http://applejara.tistory.com/303
 ````SQL
