@@ -23,3 +23,5 @@ if 보험료 낼 돈이 없다면, 해지환급금으로 쌓인 돈에서 위험
 http://tip.daum.net/question/49541681
 #### CMS
 http://hamait.tistory.com/720?category=144972
+#### 자산, 부채, 미지급, 선수, 미수
+http://tip.daum.net/question/58171104
