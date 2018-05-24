@@ -25,3 +25,5 @@ http://tip.daum.net/question/49541681
 http://hamait.tistory.com/720?category=144972
 #### 자산, 부채, 미지급, 선수, 미수
 http://tip.daum.net/question/58171104
+#### 해지환급금, 적립금, 특별계정 투입금
+http://www.sisapress.com/journal/article/129450
