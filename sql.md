@@ -1,3 +1,9 @@
+#### 다중 like 여러개 like 하기
+````sql
+오라클 다중 LIKE 사용하기 1.OR 사용?1WHERE (name LIKE '%홍%' OR name LIKE '%김%' OR name LIKE '%서%')2. 정규식 사용 (10g 이상)?1WHERE REGEXP_LIKE(name, '홍|김|서')
+출처: http://yjcorp.tistory.com/16 [yj factory]
+````
+
 #### DELETE
 ````sql
 DELETE FROM table T WHERE T.a = ~~~ 
