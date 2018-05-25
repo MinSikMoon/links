@@ -1,3 +1,5 @@
+#### GlassFish 기본 사용 설치 중단
+http://egloos.zum.com/bogus212/v/287955
 #### Difference between tomcat, glassfish, JBOSS
 https://stackoverflow.com/questions/3821640/what-is-the-difference-between-tomcat-jboss-and-glassfish
 #### 윈도우 우분투 디렉토리 위치
