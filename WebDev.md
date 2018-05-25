@@ -1,3 +1,5 @@
+#### Difference between tomcat, glassfish, JBOSS
+https://stackoverflow.com/questions/3821640/what-is-the-difference-between-tomcat-jboss-and-glassfish
 #### 윈도우 우분투 디렉토리 위치
 https://webisfree.com/2017-06-09/윈도우즈-10에-설치된-bash-shell의-디렉토리에-접근하는-방법은
 #### 파이썬 패키지 설치 폴더 찾기
