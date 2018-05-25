@@ -12,3 +12,9 @@ https://code-examples.net/ko/q/2252f6b
 https://softzone205.blogspot.kr/2018/02/10-node-npm.html
 #### 윈10 bash
 https://blogs.msdn.microsoft.com/eva/?p=7633
+#### jdk jre 여러개 설치해도 되나?
+````java
+ 메이지  
+2009-03-05 15:24:48 
+  커멘드 프롬프트나 그냥 jar 파일 실행하게 되면 PATH 환경변수에 먼저 나오는 JDK/JRE가 실행됩니다. CLASSPATH JAVA_HOME 변수를 사용하는 프로그램 실행하는거 아니면 안잡으셔도 관계 없습니다. 
+````
