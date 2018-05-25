@@ -21,3 +21,17 @@ target 은 지우셔도 상관 없습니다. Maven build 하면 다시 생기니
 ````
 [user home]/.m2/repository
 ````
+일단 로컬에 라이브러리가 있다면 다음부터 로컬꺼 쓴다
+
+#### 라이프사이클, phase(단계), goal
+````
+LifeCycle
+-Compile
+--Phase
+---Plugin + Goal
+-Test
+--Phase
+-Package
+--Phase
+
+````
