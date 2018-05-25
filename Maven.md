@@ -24,7 +24,7 @@ target 은 지우셔도 상관 없습니다. Maven build 하면 다시 생기니
 일단 로컬에 라이브러리가 있다면 다음부터 로컬꺼 쓴다
 
 #### 라이프사이클, phase(단계), goal
-````
+````xml
 LifeCycle
 -Compile
 --Phase
@@ -33,5 +33,9 @@ LifeCycle
 --Phase
 -Package
 --Phase
+````
 
+#### 플러그인 : 골(기능)
+````
+Compiler:compile = Compiler플러그인에서 'Compile'기능을 실행해라.
 ````
