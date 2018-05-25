@@ -17,3 +17,7 @@ target 은 지우셔도 상관 없습니다. Maven build 하면 다시 생기니
 
 그래서 target 은 커밋의 대상은 아닙니다. 주로 ignore 시켜 두죠.
 ````
+#### 메이븐 로컬 리포지토리
+````
+[user home]/.m2/repository
+````
