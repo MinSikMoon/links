@@ -27,6 +27,12 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+#### 파일질라 ppk등록
+http://hyeonstorage.tistory.com/272
+#### 리눅스 초보강의
+http://jjackq.tistory.com/89
+#### .으로 시작하는 파일 만드는법
+끝에 .찍으면 됨.
 #### SSH
 리눅스/ 유닉스 계열에서 원격제어엥 사용하는 
 ### 프로비저닝
