@@ -27,6 +27,10 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+#### cmd에서 환경변수 설정할때
+- 띄어쓰기하지마라
+set MAVEN_HOME=D:\ADSFASDF 이렇게 붙여써야함.
+
 #### cmd에서 임시환경변수 설정
 ````batch
 >path
