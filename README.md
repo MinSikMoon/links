@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+#### RDS의 postgre 접속
+https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html#USER_ConnectToPostgreSQLInstance.Troubleshooting
 #### cmd에서 환경변수 설정할때
 - 띄어쓰기하지마라
 set MAVEN_HOME=D:\ADSFASDF 이렇게 붙여써야함.
