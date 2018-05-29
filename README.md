@@ -27,6 +27,9 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+#### MKYONG Postgre jdbc connection 예제 + 스프링 예제 with dao, imple, jdbctemplate 등 
+- https://www.mkyong.com/jdbc/how-do-connect-to-postgresql-with-jdbc-driver-java/
+- http://javasampleapproach.com/spring-framework/spring-boot/how-to-use-jdbc-template-with-spring-boot-for-postgres-database
 #### RDS의 postgre 접속
 https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html#USER_ConnectToPostgreSQLInstance.Troubleshooting
 #### cmd에서 환경변수 설정할때
