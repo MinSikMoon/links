@@ -28,7 +28,7 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </html>
 ````
 #### cmd에서 임시환경변수 설정
-````
+````batch
 >path
 
 현재 환경변수 정보 보여줌.
