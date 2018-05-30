@@ -1,3 +1,23 @@
+#### 같거나 작은 합? count over? over에 대한 상세한 
+- http://blog.naver.com/PostView.nhn?blogId=whitefre&logNo=140148769754
+- 출처: http://javaexpert.tistory.com/503 [올해는 블록체인이다.]
+````sql
+COUNT(expr) OVER(analytic_clause)
+
+- 같거나 작은 조건에 대한 갯수 반환
+
+/* 부서번호가 50인 부서 지원에 대해 각 직원의 급여보다 같거나 적게 받는 사람에 대한 누적 합을 반환. */
+
+SELECT employee_id, salary
+
+, COUNT(*) over(ORDER BY salary) AS "Count"
+
+FROM employees
+
+WHERE department_id = '50';
+````
+
+
 #### 다중 like 여러개 like 하기
 ````sql
 오라클 다중 LIKE 사용하기 1.OR 사용?1
