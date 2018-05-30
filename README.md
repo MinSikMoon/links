@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+#### 디코딩 캐릭터셋들
+- https://docs.python.org/2.4/lib/standard-encodings.html
 #### ECLIPSE TOMCAT에서 자꾸 타임아웃 timeout 땜에 꺼질때 에러
 - https://blog.outsider.ne.kr/397
 #### MKYONG Postgre jdbc connection 예제 + 스프링 예제 with dao, imple, jdbctemplate 등 
