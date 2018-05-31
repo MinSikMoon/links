@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+#### 풀리퀘스트 pull request?
+https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
 #### SAC, System Access Control/ NAC, Network Access Control
 https://m.blog.naver.com/PostView.nhn?blogId=ms_hotpotato&logNo=140134015241&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
 #### db 세이퍼 노드 세이퍼
