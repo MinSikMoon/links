@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+#### 카카오 플러스 친구 개발
+http://annajinee.tistory.com/19
 #### 풀리퀘스트 pull request?
 https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
 #### SAC, System Access Control/ NAC, Network Access Control
