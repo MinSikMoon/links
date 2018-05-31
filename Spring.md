@@ -1,3 +1,6 @@
+#### 스프링 폴더구조 설정들경로
+http://pgm-progger.blogspot.com/2014/01/spring-base-setting.html
+
 #### web.xml 추가 이클립스 eclipse
 https://stackoverflow.com/questions/15380125/cannot-add-a-project-to-a-tomcat-server-in-eclipse
 #### 이클립스 스프링 프로젝트 생성
