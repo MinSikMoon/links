@@ -27,6 +27,8 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 </body>
 </html>
 ````
+#### postgres 무료 erd
+http://printhelloworld.tistory.com/49
 #### 키워드 검색 솔루션 [번역]정규표현식으로는 5일 걸리는 작업, 15분만에 끝내기
 https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048?email=msmoon.official%40gmail.com&g-recaptcha-response=03ACgFB9u_LdykF_9Te_dNrO1LV7YtQjLuoOZdlHLtsozWq8Mnf9VVJuCQFPNdUpk50iwrukHI8WLazccIaGb2XSiKVAqjS87FPDJQbNtbEVsx7frbiz04GqWT3RnrveVUnKYjyKHHpA-U-xuNK_K0Sha2AnfE3M1xIe5W9Th4pDTISVNLqTuC0fRzKAUwkodde2BDoQx402b2fakDwwsBiEaNNLG5wLraght-dINUdzpVnsL9Qf65LpgoZ7QMCEXkPgZZNzjAnG_0x_QBYI0Zm4OwRCUHWutn0CgPF2l021NHF7mAxe2iv-03fGyA5m0qESge6XuFtKORQ86oRXn6ac87jfBx_YvVoQjxf4PyCMcTAp3NtJtbpygOYZfEDDMMoJmqDNFqCx6VqbkuUoPjSd85i2P9L_UVbzKMEj04_Z6z2mUDViW-QtVdlB3TWFgJ1da6asvv63Pn
 #### 카카오 플러스 친구 개발
