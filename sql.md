@@ -1,6 +1,19 @@
+#### pgadmin 사용법
+https://www.pgadmin.org/docs/pgadmin4/1.x/query_tool.html
+#### postgres primary key
+- https://stackoverflow.com/questions/11778102/what-is-the-right-data-type-for-unique-key-in-postgresql-db
+#### postgresql 유저관련 
+- http://hampro1024.egloos.com/3738380
+- http://daydreamer-92.tistory.com/12
+- https://blog.naver.com/shop2930/220296328308
+- https://wiki.kldp.org/KoreanDoc/html/PgSQL_Extension-KLDP/PgSQL_Extension-KLDP-2.html
+- https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/Appendix.PostgreSQL.CommonDBATasks.html#Appendix.PostgreSQL.CommonDBATasks.Roles
+- https://serverfault.com/questions/532431/how-do-i-grant-select-insert-privileges-in-postgres-on-cygwin
+- 
 #### postgresql 시간, 숫자형
 - https://www.postgresql.org/docs/9.1/static/datatype-numeric.html
 - https://www.postgresql.org/docs/8.1/static/functions-datetime.html#FUNCTIONS-DATETIME-CURRENT
+- http://egloos.zum.com/intothesec/v/1363149
 #### postgresql 데이터형 jdbc 매핑
 http://grokbase.com/t/postgresql/pgsql-jdbc/10a87m2ze3/postgresql-data-types-mapped-java-classes-for-jdbc
 ````
