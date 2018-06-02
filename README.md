@@ -1,5 +1,7 @@
 # links
 repository of useful links.
+#### 이클립스 tooling null pointer 익셉션 등 
+http://hunit.tistory.com/193
 ## naver dictionary - exampl
 [영어사전](http://endic.naver.com/search_example.nhn?sLn=kr&query=&preQuery=&searchOption=example&examType=&forceRedirect=N)
 # github markdown
