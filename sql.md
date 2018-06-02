@@ -1,6 +1,7 @@
+#### sql poser architect 테이블 생성 강의
+https://www.youtube.com/watch?v=hHBSMGr6yDg
 #### POSTGRES 사용자 생성 권한
 http://www.gurubee.net/lecture/2939
-
 #### 같거나 작은 합? count over? over에 대한 상세한 
 - http://blog.naver.com/PostView.nhn?blogId=whitefre&logNo=140148769754
 - 출처: http://javaexpert.tistory.com/503 [올해는 블록체인이다.]
