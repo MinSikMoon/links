@@ -1,5 +1,9 @@
 # links
 repository of useful links.
+#### jdbc template 사용법 insert
+https://blog.outsider.ne.kr/882
+#### 로그인 예제
+https://taehun3718.wordpress.com/2015/04/20/spring%EC%97%90%EC%84%9C-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EC%A0%84%EC%86%A1/
 #### 이클립스 tooling null pointer 익셉션 등 
 http://hunit.tistory.com/193
 ## naver dictionary - exampl
