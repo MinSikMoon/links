@@ -1,3 +1,6 @@
+#### 보통
+controller, vo -> service(vo) -> manager(vo) -> dao(vo) -> sqlmap
+
 #### 스프링 폴더구조 설정들경로
 http://pgm-progger.blogspot.com/2014/01/spring-base-setting.html
 
