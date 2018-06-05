@@ -1,6 +1,7 @@
 #### web.xml 인식 안되던것들 해결
 -> web deployment assembly에 webapp폴더를 소스, deploy path를 루트로 하니까 작동됨.
-
+#### 스프링 session sessionattributes
+http://mindols.tistory.com/106
 
 #### 보통
 controller, vo -> service(vo) -> manager(vo) -> dao(vo) -> sqlmap
