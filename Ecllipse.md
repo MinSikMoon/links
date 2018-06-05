@@ -3,3 +3,6 @@
 
 #### 단축키 링크
 - http://littletrue.egloos.com/3987863
+
+#### class가 반영 안될때
+- project clean -> build project 후 
