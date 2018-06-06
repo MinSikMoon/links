@@ -1,3 +1,7 @@
+#### 메이븐 maven으로 빌드할때
+- 한번 clean해서 말아올린것들 다 지워주고 다시 패키징해준다.
+#### 갑자기 클래스들 못찾겠다고 할때
+- 프로젝트 clean해주고 deploy assembly 확인해주고 다시 build project해준다.
 #### web.xml 인식 안되던것들 해결
 -> web deployment assembly에 webapp폴더를 소스, deploy path를 루트로 하니까 작동됨.
 #### 스프링 session sessionattributes
