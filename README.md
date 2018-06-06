@@ -45,8 +45,10 @@ jsp에
 </body>
 </html>
 ````
-#### 
-https://stackoverflow.com/questions/17892702/how-has-soundcloud-hidden-the-url-of-streaming-audio
+#### d3 music visualier
+- https://www.bignerdranch.com/blog/music-visualization-with-d3-js/
+#### how sound cloud hidden the url of streaming audio
+- https://stackoverflow.com/questions/17892702/how-has-soundcloud-hidden-the-url-of-streaming-audio
 #### postgres 무료 erd
 http://printhelloworld.tistory.com/49
 #### 키워드 검색 솔루션 [번역]정규표현식으로는 5일 걸리는 작업, 15분만에 끝내기
