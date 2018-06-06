@@ -12,6 +12,18 @@ http://hunit.tistory.com/193
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 <a>https://guides.github.com/features/mastering-markdown</a>
 # 기본 HTML 템플릿 with jquery & bootstrap
+````html
+jsp에
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+  pom에
+  	<dependency>
+			<groupId>jstl</groupId>
+			<artifactId>jstl</artifactId>
+			<version>1.2</version>
+		</dependency>
+````
 ````javascript
 <!DOCTYPE html>
 <html lang="en">
