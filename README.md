@@ -45,6 +45,10 @@ jsp에
 </body>
 </html>
 ````
+#### taskkill
+````cmd
+taskkill /f /pid 1234
+````
 #### d3 music visualier
 - https://www.bignerdranch.com/blog/music-visualization-with-d3-js/
 #### how sound cloud hidden the url of streaming audio
