@@ -1,3 +1,23 @@
+#### json 리퀘 리스 해줄때 리스폰스 리퀘스트 ajax
+````xml
+<!-- jackson -->
+<dependency>
+          <groupId>com.fasterxml.jackson.core</groupId>
+          <artifactId>jackson-databind</artifactId>
+          <version>2.5.1</version>
+</dependency>
+
+해주고
+vo 들 만들어준다음에
+requestbody, responsebody 어노테이션해주면vo에 맞게 json으로 나감
+@RequestMapping(value = "/", method = RequestMethod.POST)
+	public @ResponseBody ResponseVo message(@RequestBody RequestVo request){
+	 리스폰스vo만들어주고 
+	 return response;
+	}
+````
+
+
 #### 메이븐 maven으로 빌드할때
 - 한번 clean해서 말아올린것들 다 지워주고 다시 패키징해준다.
 #### 갑자기 클래스들 못찾겠다고 할때
