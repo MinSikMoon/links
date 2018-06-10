@@ -1,3 +1,8 @@
+#### git에서 clone한 메이븐 프로젝트가 이클립스 톰캣에서 인식안될때
+- 일단 property -> facets에서 dynamicwebapp, html, javascript 추가하면 content폴더가 생기면서 web.xml생겨서 인식됨.
+- 이후에 deployment 어쩌구 거기에서 maven depository추가하고 경로들 고쳐주면 작동된다.
+
+
 #### json 리퀘 리스 해줄때 리스폰스 리퀘스트 ajax
 ````xml
 <!-- jackson -->
