@@ -1,5 +1,7 @@
 # links
 repository of useful links.
+#### 오라클 실행계획
+https://m.blog.naver.com/PostView.nhn?blogId=sophie_yeom&logNo=220891529668&proxyReferer=http%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D1%26ved%3D0ahUKEwiK59D_q8rbAhXGebwKHbe-CR0QFggnMAA%26url%3Dhttp%253A%252F%252Fm.blog.naver.com%252Fsophie_yeom%252F220891529668%26usg%3DAOvVaw3QcnibdMT_XEh-lxIuHrs3
 #### 유용한 프론트엔드 사이트들
 http://jguru-study.tistory.com/32
 #### jdbc template 사용법 insert
