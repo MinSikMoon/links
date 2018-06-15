@@ -1,3 +1,5 @@
+#### 이클립스 톰캣 갑자기 잘안되고 맛간거 같을때
+server.xml 복사해두고 지우고 다시깔고 복붙해준다.
 #### ibatis if else
 http://ykc0627.tistory.com/m/129
 #### putty 자동접속하고 sh실행시키기
