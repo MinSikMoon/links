@@ -1,3 +1,11 @@
+#### ibatis if else
+http://ykc0627.tistory.com/m/129
+#### putty 자동접속하고 sh실행시키기
+````cmd
+putty.exe -agent -ssh {LOGIN_ID}@{SERVER_IP} -pw {LOGIN_PASSWORD} -m "cmd.txt"
+
+출처: http://devanto.tistory.com/entry/putty-를-이용한-원격-명령어-전송 [Neo 安土]
+````
 #### classpath
 http://f10024.tistory.com/3
 # links
