@@ -1,3 +1,7 @@
+#### 왜 자바웹 보다 node.js? 궁금 비동기 서버 NIO 네티
+http://zabdahan.tistory.com/entry/%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%84%9C%EB%B2%84%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0
+#### 비트윈 개발 블로그, AWS 이미지 서버 등 정리많음.
+http://engineering.vcnc.co.kr/2016/05/ondemand-image-resizing/
 #### 이클립스 톰캣 갑자기 잘안되고 맛간거 같을때
 server.xml 복사해두고 지우고 다시깔고 복붙해준다.
 #### ibatis if else
