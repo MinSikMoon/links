@@ -1,3 +1,6 @@
+#### 동기, 비동기
+http://jajubogi.tistory.com/14
+
 #### 왜 자바웹 보다 node.js? 궁금 비동기 서버 NIO 네티
 http://zabdahan.tistory.com/entry/%EB%B9%84%EB%8F%99%EA%B8%B0-%EC%84%9C%EB%B2%84%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0
 #### 비트윈 개발 블로그, AWS 이미지 서버 등 정리많음.
