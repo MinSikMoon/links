@@ -1,3 +1,6 @@
+#### 브랜치 pull 받기
+https://cjh5414.github.io/get-git-remote-branch/
+
 #### 기초강의 
 https://backlog.com/git-tutorial/kr/intro/intro1_3.html
 #### what is branch? 브랜치따서 깃헙에 올리기
