@@ -1,3 +1,7 @@
+#### mybatis spring 테스트 연동
+http://all-record.tistory.com/175
+
+
 #### 컨트롤러 테스트 was 없이
 http://doublesprogramming.tistory.com/175
 
