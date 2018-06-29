@@ -1,3 +1,6 @@
+#### 실행계획
+http://scidb.tistory.com/entry/About-DBMSXPLAN-1%EC%8B%A4%ED%96%89%EA%B3%84%ED%9A%8D
+
 #### pgadmin 사용법
 https://www.pgadmin.org/docs/pgadmin4/1.x/query_tool.html
 #### postgres primary key
