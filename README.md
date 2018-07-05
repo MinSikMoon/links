@@ -1,3 +1,5 @@
+#### 기술스택
+http://www.codeok.net/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D
 #### 동기, 비동기
 http://jajubogi.tistory.com/14
 
