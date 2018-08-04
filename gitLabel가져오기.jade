@@ -1,0 +1,50 @@
+doctype html
+html
+    head
+        meta(charset='utf-8')
+        title= '안녕 에디터'
+        link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+        link(rel='stylesheet', href='http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.9/summernote.css')
+        script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js')
+        script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+        script(src='http://cdnjs.cloudflare.com/ajax/libs/summernote/0.8.9/summernote.js')
+        script.
+            $(()=>{
+                $('.summernote').summernote({
+                    placeholder: 'Hello bootstrap 4',
+                    tabsize: 2,
+                    height: 100
+                })
+                //result에 
+                $('#labelInput').click(function(){
+                    $.get("/getIssuesLabels", function(data){
+                        console.log(data);
+                        for(var i=0; i<data.length; i++){
+                            var labelBtn = $('<button>').attr({
+                                class: "btn-lg",
+                                id: data[i].node_id,
+                                style: "background-color:#" +data[i].color+"" 
+                            });
+                            labelBtn.text(data[i].name);
+                            $('#labels').append(labelBtn);
+                            $('#labels').append($('<br/>'));
+                        }
+                    })
+                })
+
+            })
+
+
+    body
+        div( class="container")
+            form(action="/getIssuesLabels", method='post')
+                textarea(class='summernote',name="editordata", cols="30", rows="10")
+                p
+                    input(type='submit')
+            
+            //form(action="/getIssuesLabels", method="get")
+                input(type='submit')
+            input(id="labelInput" type="submit")
+            div(id='labels')
+            //h3(id=labelInput)!=labels
+
